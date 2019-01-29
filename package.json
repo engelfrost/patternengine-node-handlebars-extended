@@ -20,15 +20,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/pattern-lab/patternengine-node-handlebars.git"
+    "url": "https://github.com/engelfrost/patternengine-node-handlebars-extended.git"
   },
-  "bugs": "https://github.com/pattern-lab/patternlab-node/issues",
-  "author": "Brian Muenzenmeyer & Geoffrey Pursell",
+  "bugs": "https://github.com/engelfrost/patternlab-node/issues",
+  "author": "Brian Muenzenmeyer & Geoffrey Pursell & Josef Engelfrost",
   "license": "MIT",
-  "scripts": {
-    "test": "grunt travis --verbose"
-  },
   "engines": {
-    "node": ">=4.0"
+    "node": ">=8.0"
   }
 }
